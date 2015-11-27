@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Maintenance Log</string>
+    <string name="action_settings">Settings</string>
+    <string name="oilBtn">Oil Service</string>
+    <string name="inspection1">Inspection 1</string>
+    <string name="inspection2">Inspection 2</string>
+    <string name="sil">Reset SIL</string>
+    <string name="maint_table">Maintenance History</string>
+    <string name="transmission">Check transmission for leaks</string>
+    <string name="cvt">Change CVT fluid</string>
+    <string name="cvBoots"><![CDATA[Check CV joint boots for damage or leaks ]]></string>
+    <string name="oilFilter">Oil and filter</string>
+    <string name="cabinFilter">Cabin air filter</string>
+    <string name="brakePads">Check brake pads</string>
+    <string name="brakeRotors">Check brake rotors</string>
+    <string name="breakContact">Clean brake pad contact points</string>
+    <string name="greaseHubs">Grease wheel centering hubs</string>
+    <string name="parkingBrake">Check parking brake</string>
+    <string name="resetSIL">Reset Service Indicator Light</string>
+    <string name="mileage">Mileage:</string>
+    <string name="fuelLines">Visually check fuel tank, fuel lines and connections for leaks</string>
+    <string name="exhaust"><![CDATA[Check condition, position and mounting of exhaust system.  Adjust if necessary. ]]></string>
+    <string name="struts"><![CDATA[Check struts and shock absorbers for leaks ]]></string>
+    <string name="controlArm"><![CDATA[Check front control arm bushings for damage or wear ]]></string>
+    <string name="powerSteering"><![CDATA[Check power steering system for leaks. Check fluid level and add if necessary. ]]></string>
+    <string name="steeringRack">Check steering rack and tie rods for tightness.</string>
+    <string name="steeringLinkage">Check condition of steering linkage and steering shaft joints.</string>
+    <string name="checkBrakes">Check overall thickness of front and rear brake pads. If replacement is necessary:</string>
+    <string name="title_activity_oil">Oil</string>
+</resources>
